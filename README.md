@@ -146,4 +146,4 @@ Vite configuration is available in `vite.config.js` for build optimization and d
 
 ## Deployed Url
 
-https://keeperproejct.onrender.com
+https://keeperproject-tutedude.netlify.app/
